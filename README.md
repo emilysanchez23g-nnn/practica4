@@ -1,4 +1,4 @@
-#¿Cómo funciona el lenguaje de documentación 'Markdown' ?
+##¿Cómo funciona el lenguaje de documentación 'Markdown' ?
 Markdown funciona para darle un diseño a un texto utilizando caracteres de texto plano, como * para cursiva, # para encabezados, etc.
 Tiene la finalidad de permitir crear contenido de una forma sencilla, ya que su sintaxis es sencilla y se basa en caracteres que ya se utilizan con frecuencia.
 
